@@ -7,3 +7,4 @@ Hope this is helpful to other students.
 <h1 align="center">Probleme Set 1 : Mairo</h1>
 <h1 align="center"> Probleme Set 2 : Caeser </h1>
 <h1 align="center">Probleme Set 3 : Runoff</h1>
+<h1 align="center">Probleme Set 6 : Python projects</h1>
