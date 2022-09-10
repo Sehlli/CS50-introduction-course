@@ -6,7 +6,7 @@ Hope this is helpful to other students.
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/cfeHe1QOPY10oB4BegAuAvplbAUYi3LFUgb1An8C_60/rs:fit:480:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhLzhQam1V/ZVB0S0dOYlVBSUpr/Ui9naXBoeS5naWY.gif">
 ## Table Of Contents
 
-- [Problem Set 1: C](/C/pset1) - <a href='https://cs50.harvard.edu/x/2020/psets/1/'> Assignments 1</a>
+- [Problem Set 1: C](/C/pset1) - <a href='[https://cs50.harvard.edu/x/2020/psets/1/](https://github.com/Sehlli/CS50-introduction-course/blob/main/C/PS1/CS50-mario.c)'> Assignments 1</a>
   * [hello](/C/pset1/hello)
   * mario
     + [less](/C/pset1/mario/less)
